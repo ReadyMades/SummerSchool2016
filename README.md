@@ -13,3 +13,10 @@ https://docs.google.com/spreadsheets/d/1hsYoGUZki_WUaNu4nB8lB4-RpM21QIy0hM1-TO9S
 ‣ Тел: +7-905-396-4982
 
 ‣ Email: bartashuk.p@r-mades.com
+
+
+Игорь Лепешкин, iOS dev
+
+‣ Тел: +7-906-405-2274
+
+‣ Email: lepeshkin.i@r-mades.com
