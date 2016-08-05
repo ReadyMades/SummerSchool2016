@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LearnFragment</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="name">Fuck Yeah</string>
+    <string name="dev">2000</string>
+</resources>
